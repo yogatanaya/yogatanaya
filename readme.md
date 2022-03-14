@@ -33,7 +33,7 @@ I am a patience and tend to focus person. I give my best value to anyone that wo
 
 ## Get in touch with me :)
 
-LinkedIn: linkedin.com/in/yogatanaya/
-Instagram: instagram.com/yogatanaya/ 
+LinkedIn: linkedin.com/in/yogatanaya/ \
+Instagram: instagram.com/yogatanaya/ \
 Twitter: twitter.com/tyoga95
 
