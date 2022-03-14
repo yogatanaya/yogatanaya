@@ -23,6 +23,7 @@ I am a patience and tend to focus person. I give my best value to anyone that wo
 
 ## Skills
 | Technical | |
+| ----------- | ----------- |
 | Languages | *PHP*, *Javascript*, *Ruby*
 | Currently Focusing | UI/UX Design
 | Front-End | *Angular*, *Ionic*, *React.js*, *Jquery*, *AJAX*
